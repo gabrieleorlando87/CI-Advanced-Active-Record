@@ -1,0 +1,19 @@
+{
+    "name": "gabrieleorlando87/ci-advanced-active-record",
+	"description": "Advanced class for manage active record queries.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Gabriele Orlando",
+            "email": "gabriele.orlando.87@gmail.com"
+        }
+    ],
+	"require": {
+		"php": ">=5.3.7"
+	},
+    "autoload": {
+        "psr-4": {
+            "CIAdvancedActiveRecord\\": "src/"
+        }
+    }
+}
