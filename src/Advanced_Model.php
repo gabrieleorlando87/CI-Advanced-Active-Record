@@ -9,7 +9,7 @@ namespace CIAdvancedActiveRecord;
  *
  * @author Gabriele
  */
-class Advanced_Model extends CI_Model {
+class Advanced_Model extends \CI_Model {
 
 	const SELECT = 'SELECT';
 	const FROM = 'FROM';
